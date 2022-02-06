@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @usamafaisal1998
-- 👀 I’m interested in Control amd AI projects
-- 🌱 I’m currently learning Computer Vision and drone control
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through email
+Hi!
+I am Usama Faisal From Pakistan. I am an Electric Engineering Student have expertise in computer vision, machine learning , Artificial intelligence, IoT and Automation and control system. I have a vast experience in completing projects on IoT, Machine Learning and Control System in freelancing. Now Currently i am working Autonomous Quadcopter using SLAM. I really enjoy learning coding and different programming languages like python and c++.  
 
-<!---
-usamafaisal1998/usamafaisal1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
