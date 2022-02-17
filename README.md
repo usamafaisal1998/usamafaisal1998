@@ -6,6 +6,6 @@ I am Usama Faisal From Pakistan. I am an Electric Engineering Student have exper
  * 💻 Computer Vision
  * 🤖 Control and Automation,Machine Learning
  * 📷 Sensor Fusion
- * 🖥 Arduino,Python,C++
+ * 🖥 Arduino,STM 32,Python,C++
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usamafaisal1998)](https://github.com/anuraghazra/github-readme-stats)
